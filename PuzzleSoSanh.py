@@ -8,9 +8,9 @@ PUZZLE_SIZE = 3
 
 # ====================  THAY ĐỔI GOAL TẠI ĐÂY ====================
 CUSTOM_GOALS = {
-    3: (1, 2, 3, 4, 5, 6, 7, 8,0), # Goal mặc định 3x3: ô trống cuối
+    #3: (1, 2, 3, 4, 5, 6, 7, 8,0), # Goal mặc định 3x3: ô trống cuối
     #3: (0, 1, 2, 3, 4, 5, 6, 7, 8), # Goal tùy chỉnh 3x3: ô trống đầu
-    #3: (1, 2, 3, 4,0, 5, 6, 7, 8), # Goal tùy chỉnh 3x3: ô trống giữa
+    3: (1, 2, 3, 4,0, 5, 6, 7, 8), # Goal tùy chỉnh 3x3: ô trống giữa
     4: (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 0)  # Goal mặc định 4x4
 }
 
